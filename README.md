@@ -56,6 +56,7 @@ Prodi : Teknik Informatika
 ![Screenshot (7)](https://user-images.githubusercontent.com/73011140/96334272-ad643b80-1099-11eb-9e96-7de04820e9ae.png)
    
 ->Buat file di folder yang sudah dibuat (LatihanVCS). Contohnya, di sini kami membuat file index.txt(ubah ke README.txt)
+
 ->Buka GitBash lalu masukkan perintah berikut:
       
     $ git add README.txt
