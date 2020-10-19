@@ -77,24 +77,24 @@ Prodi : Teknik Informatika
     
     $ git commit -m "first commit"
    
-17.Setelah git commit, lalu anda masukan perintah
+18.Setelah git commit, lalu anda masukan perintah
 ![Screenshot (29)](https://user-images.githubusercontent.com/73011140/96493959-dfc79180-126f-11eb-9305-73ff40b7d9b5.png)git log
 
         
     $ git log
      
-18.Lakukan Remote repository berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository
+19.Lakukan Remote repository berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository
 ![Screenshot (32)](https://user-images.githubusercontent.com/73011140/96494572-be1ada00-1270-11eb-8303-7250be1dcb14.png)
         
     $ git remote add origin https://github.com/AkbarXelion/LatihanVCS.git
    
-19.Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub
+20.Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub
 ![Screenshot (11)](https://user-images.githubusercontent.com/73011140/96494723-f4585980-1270-11eb-9a2a-fb53b9f7be8c.png)
         
     $ git push -u origin main
 
 ->Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
       
-20.Selesai anda sudah berhasil menginstall git juga menggunakan git dan github
+21.Selesai anda sudah berhasil menginstall git juga menggunakan git dan github
 ![Screenshot (12)](https://user-images.githubusercontent.com/73011140/96494849-1b169000-1271-11eb-8174-3fcfc8989cb4.png)
       
