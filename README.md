@@ -23,15 +23,15 @@ Prodi : Teknik Informatika
   
 5.Selanjutnya, masukkan username GitHub Anda menggunakan perintah di bawah ini. Lalu tekan ENTER jika sudah benar.
 
-  $ git config --global user.name "UsernameAnda"
+    $ git config --global user.name "UsernameAnda"
   
 6.Kemudian masukkan email yang terdaftar di GitHub Anda menggunakan perintah di bawah  ini. Lalu tekan ENTER jika sudah benar.
        
-  $ git config --global user.email emailanda
+    $ git config --global user.email emailanda
   
 7.Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
        
-  $ git config --list
+    $ git config --list
   
 8.Login ke Github
 ![Screenshot (13)](https://user-images.githubusercontent.com/73011140/96335044-90326b80-109f-11eb-9755-a58c0f12bdfc.png)
@@ -50,7 +50,7 @@ Prodi : Teknik Informatika
 13.Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut
 ![Screenshot (6)](https://user-images.githubusercontent.com/73011140/96334206-2f079980-1099-11eb-953b-e5820a9841fd.png)
        
-  $ git init
+    $ git init
 
 14.Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini
 ![Screenshot (7)](https://user-images.githubusercontent.com/73011140/96334272-ad643b80-1099-11eb-9e96-7de04820e9ae.png)
@@ -58,30 +58,30 @@ Prodi : Teknik Informatika
 ->Buat file di folder yang sudah dibuat (LatihanVCS). Contohnya, di sini kami membuat file index.txt(ubah ke README.txt)
 ->Buka GitBash lalu masukkan perintah berikut:
       
-  $ git add README.txt
+    $ git add README.txt
    
 15.Lalu setelah get init ketik seperti gambar di bawah ini
 ![Screenshot (9)](https://user-images.githubusercontent.com/73011140/96334535-beae4780-109b-11eb-924f-6f4f4e0cfb60.png)
        
-  $ git status
+    $ git status
   
 16.Selanjutnya, Anda perlu membuat Commit. Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan. Masukkan perintah berikut untuk membuat Commit
     
-  $ git commit -m "first commit"
+    $ git commit -m "first commit"
    
 17.Setelah git commit, lalu anda masukan git log
 ![Screenshot (10)](https://user-images.githubusercontent.com/73011140/96334624-5ca21200-109c-11eb-8f84-d24eb96a9d36.png)
         
-  $ git log
+    $ git log
      
 18.Lakukan Remote repository berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository
         
-  $ git remote add origin https://github.com/AkbarXelion/LatihanVCS.git
+    $ git remote add origin https://github.com/AkbarXelion/LatihanVCS.git
    
 19.Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub
 ![Screenshot (11)](https://user-images.githubusercontent.com/73011140/96334627-61ff5c80-109c-11eb-9bf3-d2cf4efc7ce5.png)
         
-  $ git push -u origin main
+    $ git push -u origin main
 
 ->Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
       
