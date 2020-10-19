@@ -95,6 +95,6 @@ Prodi : Teknik Informatika
 
 ->Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub.
       
-20.Selesai anda sudah berhasil menginstall git dan menggunakan git dan github
+20.Selesai anda sudah berhasil menginstall git juga menggunakan git dan github
 ![Screenshot (12)](https://user-images.githubusercontent.com/73011140/96494849-1b169000-1271-11eb-8174-3fcfc8989cb4.png)
       
