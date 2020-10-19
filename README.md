@@ -17,7 +17,7 @@ Prodi : Teknik Informatika
 2.Setalah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
 ![Screenshot (17)](https://user-images.githubusercontent.com/73011140/96491142-05eb3280-126c-11eb-8e9c-830ae94a4ffa.png)
 
-    git --version
+    git version
   
 3.Anda bisa melakukan login awal pada Git  menggunakan Command Prompt  (Windows)
 ![Screenshot (30)](https://user-images.githubusercontent.com/73011140/96490761-734a9380-126b-11eb-93ec-ffc0f93e506f.png)
