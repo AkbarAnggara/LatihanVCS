@@ -1,10 +1,14 @@
+# LatihanVCS
+
+Tugas pertemuan ke 4 Bahasa Pemrograman
+
 Nama  : Bangkit Akbar Anggara
 
 NIM   : 312010148
 
 Kelas : TI.20.B.1
 
-Cara Menggunakan Git dan Github:
+# Cara Menggunakan Git dan Github:
 
   1.Install git terlebih dahulu(www.git-scm.com)
   
