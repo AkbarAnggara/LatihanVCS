@@ -14,7 +14,7 @@ Prodi : Teknik Informatika
 
 1.Install git terlebih dahulu(www.git-scm.com)
 
-2.Setalah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
+2.Setelah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/73011140/96491142-05eb3280-126c-11eb-8e9c-830ae94a4ffa.png)
 
