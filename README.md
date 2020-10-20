@@ -60,7 +60,7 @@ Prodi : Teknik Informatika
 14.Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini
 ![Screenshot (23)](https://user-images.githubusercontent.com/73011140/96493299-01744900-126f-11eb-8e28-0d0fb707e2b7.png)
    
-->Buat file di folder yang sudah dibuat (LatihanVCS). Contohnya, di sini kami membuat file index.txt(ubah ke README.md)
+->Buat file di folder yang sudah dibuat (LatihanVCS). Contohnya, di sini kami membuat file README.md
 
 15.Buka GitBash lalu masukkan perintah berikut
 ![Screenshot (25)](https://user-images.githubusercontent.com/73011140/96493433-341e4180-126f-11eb-9b18-0cd20f140e17.png)
@@ -77,8 +77,8 @@ Prodi : Teknik Informatika
     
     $ git commit -m "first commit"
    
-18.Setelah git commit, lalu anda masukan perintah
-![Screenshot (29)](https://user-images.githubusercontent.com/73011140/96493959-dfc79180-126f-11eb-9305-73ff40b7d9b5.png)git log
+18.Setelah git commit, lalu anda masukan perintah git log
+![Screenshot (29)](https://user-images.githubusercontent.com/73011140/96493959-dfc79180-126f-11eb-9305-73ff40b7d9b5.png)
 
         
     $ git log
